@@ -1,1 +1,7 @@
+Total Commander, Everything, IrfanView
+(G)Vim, Emacs
+
 Windows Sandbox: By Microsoft.
+NoScript: Browser extension.
+
+GitHub Desktop
