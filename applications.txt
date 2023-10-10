@@ -8,3 +8,8 @@ Thunderbird: free and open source.
 Windows Sandbox: By Microsoft.
 
 GitHub Desktop
+
+===
+
+Pegasus Mail: mail client.
+Mercury Mail Transport System: mail server.
