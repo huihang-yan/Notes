@@ -1,0 +1,8 @@
+===
+
+JS flowchart: https://github.com/mermaid-js/mermaid
+Graphviz
+abcjs: Music sheet?
+JS Guitar Tablature: https://vexflow.com/vextab/
+
+===
