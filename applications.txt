@@ -2,12 +2,14 @@ Total Commander, Everything, IrfanView
 (G)Vim, Emacs
 
 NoScript: browser extension.
-
 Thunderbird: free and open source.
-
 Windows Sandbox: By Microsoft.
-
 GitHub Desktop
+www.ghisler.ch/wiki/index.php?title=Useful_3rd_party_tools_to_complement_TC
+phpBB: Free, open source. Used by Total Commander.
+WinMerge: diff.
+https://blog.didierstevens.com/2023/09/30/update-zipdump-py-version-0-0-28-2/
+ProcrastiTracker: Open source time tracking tool.
 
 ===
 

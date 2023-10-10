@@ -1,5 +1,7 @@
 ===
 
+winpty: like Unix pty-master for communicating wit Windows console programs.
+
 JS flowchart: https://github.com/mermaid-js/mermaid
 Graphviz
 abcjs: Music sheet?

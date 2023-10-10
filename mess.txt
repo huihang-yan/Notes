@@ -56,3 +56,9 @@ text is like poetry text, where there are frequent line breaks.
 Therefore, the choice of line length, like 80 characters, is less important.
 
 ===
+
+Migrate Python code to C - Reverse CRC32
+
+Data type. Overflow.
+
+===
