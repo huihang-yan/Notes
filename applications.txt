@@ -1,7 +1,10 @@
 Total Commander, Everything, IrfanView
 (G)Vim, Emacs
 
+NoScript: browser extension.
+
+Thunderbird: free and open source.
+
 Windows Sandbox: By Microsoft.
-NoScript: Browser extension.
 
 GitHub Desktop
