@@ -2,12 +2,13 @@
 
 Reference
 
-github.com/manunamz/keep-it-txt
-github.com/tvooo/awesome-plaintext
-plaintextaccounting.org
-archieml.org
+- winget
+- github.com/manunamz/keep-it-txt
+- github.com/tvooo/awesome-plaintext
+- plaintextaccounting.org
+- archieml.org
 	ArchieML is a structured text format optimized for human writability.
-www.aaronsw.com
+- www.aaronsw.com
 
 ===
 

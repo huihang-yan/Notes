@@ -9,9 +9,13 @@ readers with various natural language background, English would be a good
 choice of written language. Easier reading results in higher productivity
 and more convenience.
 
+See also: Simplified Technical English, controlled natural languages.
+
 ===
 
-Why plain text?
+Use Plain Text as Data Format
+
+Note: However, user interfaces are another thing. It seems good to use GUI. 
 
 1. Tools to view and edit.
 
