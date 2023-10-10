@@ -1,0 +1,26 @@
+===
+
+Reference
+
+https://github.com/manunamz/keep-it-txt
+https://github.com/tvooo/awesome-plaintext
+
+===
+
+Database
+
+It's time to say goodbye to SQLite. It is not plain text.
+
+Figure how to meet the requirement of Atomic, Consistent, Isolated, and
+Durable (ACID) like SQLite does. How to do it when keeping data in plain text,
+like using JSON, XML or INI?
+
+===
+
+Surfing the Internet
+
+Search engines.
+
+GitHub: search engines; discuss forums like Issues and Pull Requests tabs.
+
+===

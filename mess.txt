@@ -13,6 +13,8 @@ and more convenience.
 
 Why plain text?
 
+1. Tools to view and edit.
+
 For others to read and write. The target audience do write code, and the code
 is plain text, therefore the target audience do have plain text editors and
 they are familiar with their editors, such as Vim, Emacs and VSCode.
@@ -25,5 +27,28 @@ challenging to invent new tools.
 That's the point. If use other invented format other than plain text, new
 tools are needed to be invented. Tuning the new tool bug-free on one certain
 platform is challenging enough, not to mention so many platforms.
+
+Since there are tools, the file becomes easily manipulated.
+
+2. Search. Plain text is naturally searchable.
+
+3. Freedom. No speical tools makes the format freedom. The users would not be
+forced to do something or not by the user interface of the dedicated editors.
+
+4. No file corruption, like what happens in databases. When something goes
+wrong, the user could always go for a look.
+
+See also:
+- https://github.com/todotxt/todo.txt#why-plain-text
+
+===
+
+Why not auto-wrap but wrap by hand?
+
+So that the diff output would be easier to read, especially when using Git.
+The diff utility was designed for code text, and therefore works by line. Code
+text is like poetry text, where there are frequent line breaks.
+
+Therefore, the choice of line length, like 80 characters, is less important.
 
 ===

@@ -1,3 +1,5 @@
 
-.mess.txt.un~
-mess.txt~
+*.swp
+*.un~
+*.txt~
+.gitignore~
