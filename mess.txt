@@ -1,0 +1,29 @@
+Why write in English?
+
+1. Local environment. If we write in the mother tongue, people around would
+understand what we are writing more easily. Sometimes we want not to be
+disturbed.
+
+2. For others to read. English is the world language. When there are
+readers with various natural language background, English would be a good
+choice of written language. Easier reading results in higher productivity
+and more convenience.
+
+===
+
+Why plain text?
+
+For others to read and write. The target audience do write code, and the code
+is plain text, therefore the target audience do have plain text editors and
+they are familiar with their editors, such as Vim, Emacs and VSCode.
+
+Tools are important. People use different platforms, such as BSDs, various
+Linux distributions, Windows, macOS on M1, ARM, x86, x64 etc. It is
+challenging for tools to support various platforms. For this reason, it is
+challenging to invent new tools.
+
+That's the point. If use other invented format other than plain text, new
+tools are needed to be invented. Tuning the new tool bug-free on one certain
+platform is challenging enough, not to mention so many platforms.
+
+===
