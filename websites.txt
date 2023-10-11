@@ -4,4 +4,5 @@ filehippo.com: APK
 help.mirrors.cernet.edu.cn/fdroid
 https://isc.sans.edu/
 
-https://strlen.com/
+strlen.com: WOUTER VAN OORTMERSSEN
+
