@@ -34,6 +34,11 @@ platform is challenging enough, not to mention so many platforms.
 
 Since there are tools, the file becomes easily manipulated.
 
+This becomes especially convenience when embedding view and edit functionality
+to other applications. A text edit widget is good. Imagine developing one
+dedicated view and edit widget for thousands of SDKs: Qt, Gtk, C#, Android,
+macOS, iOS ...
+
 2. Search. Plain text is naturally searchable.
 
 3. Freedom. No speical tools makes the format freedom. The users would not be
