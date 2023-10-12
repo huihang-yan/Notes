@@ -77,3 +77,11 @@ Minimise use of pointing device.
 ===
 
 Vim multi-line insert: C-v Shift-i
+
+===
+
+Sleep as early as possible. Don't do things at night. Want to do something?
+Go to sleep. You won't want anything during sleep. If you sleep enough, you
+will get up early, and you can do the thing at the morning. If you can not
+get up early, you do not sleep enough, and therefore you should sleep earlier.
+
