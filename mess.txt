@@ -73,3 +73,7 @@ Mouse / Touchpad. Keyboard. Keyboard is essential.
 Finger, hand and arm muscle feel tired using touchpad.
 
 Minimise use of pointing device.
+
+===
+
+Vim multi-line insert: C-v Shift-i
