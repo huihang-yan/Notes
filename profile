@@ -19,7 +19,7 @@ export SSL_CERT_FILE=/etc/ssl/certs/ca-certificates.crt
 
 # ssh stuff
 eval `ssh-agent -s`
-ssh-add ../github-key-250322
+ssh-add /root/huihang/github-key-250322
 
 # Test ssh configruation with:
 # 	ssh -vvvv -T git@github.com
