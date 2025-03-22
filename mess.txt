@@ -425,3 +425,11 @@ This suggests that the issue is about path, environment variable etc.
 	export SSL_CERT_FILE=/etc/ssl/certs/ca-certificates.crt
 
 OK. This works.
+
+---
+
+Instead of using 'why should we ...', maybe it's often better to use
+'when should we ...'. More accurate.
+
+'why' sounds like we should do that thing regardless of what. But in fact
+things are usually have prequisitics.
