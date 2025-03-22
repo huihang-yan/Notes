@@ -24,6 +24,23 @@ This is good and I should go using Haskell?
 
 Could we also implement this in C? As a outside pure-function checker?
 
+But ... do we really need this? No? There are so many C projects there
+before Haskell and the test works just fine.
+
+---
+
+Separating IO results in Mathematically proveable pure functions. However,
+we still need to inspect the whole code, because the IO part is controlled
+by the pure part. This doesn't give us the convenience of just checking
+the IO part and could skip checking the pure parts.
+
+---
+
+NetBSD: I checked wireless driver, `urtwn`, the manual pages - said ported
+from FreeBSD. And the Intel driver also ported from FreeBSD.
+
+I finally get back to Linux because of GPL. It better supports open source?
+
 ---
 
 The reason behind kindness
