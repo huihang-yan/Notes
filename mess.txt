@@ -43,6 +43,17 @@ I finally get back to Linux because of GPL. It better supports open source?
 
 ---
 
+git-push via ssh
+
+Remember to `eval $(ssh-agent -s)` and `ssh-add`. Otherwise `ssh` would only
+try to use the default filenames in `~/.ssh/` and won't find our keys.
+
+I only find this by using the verbose option with `ssh -T`. In the debug
+log it shows that `ssh` by default only looks for various default
+filenames in `~/.ssh~`.
+
+---
+
 The reason behind kindness
 
 Why should we be kind? The reason is somewhat cruel - because being kine helps
