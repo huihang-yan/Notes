@@ -199,6 +199,12 @@ Freshmeat?
 freshmeat.net
 redirected to SOURCEFORGE??
 
+Freshmeat integration
+
+lwn.net/Articles/604100
+July 2, 2014
+Freecode.com discontinued
+
 ---
 
 72 columns: leave space for line numbers and diff etc.?
