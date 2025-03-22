@@ -218,6 +218,17 @@ rwxrob.github.io/zet/1303
 
 When should we build from source, and when should we use binary packages
 
+When should we use existing binary packages:
+1. When we need to get things really quick, and the compliation would be 
+   really slow - e.g. for the case of GCC and the kernel. However, tiny
+   projects and middle-size projects are fast to build anyway, like
+   vim, git and python3.
+2. When we don't have existing building tools at hand. E.g. when installing
+   to a new device and we don't want to open our other device, we could
+   just install it, and then rebuild the packages in the installed device
+   if we want to.
+
+When should we build from source:
 1. Configuration and customisation - edit the code.
 2. Hardware accessibility.
    * Binary unavailble for our chips.
