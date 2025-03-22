@@ -181,6 +181,8 @@ last messages:
 2011
 2010/6/6   Initial restart of LILO development.
 
+wow, it's BSD. Not GPL. So I would go GRUB.
+
 salsa.debian.org/public - a Debian-GitHub?
 
 ---
