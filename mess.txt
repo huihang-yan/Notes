@@ -195,6 +195,19 @@ just use the current one so I don't need to get another email address.
 
 ---
 
+Freshmeat?
+
+---
+
+72 columns: leave space for line numbers and diff etc.?
+and email quote
+
+modern reason: for the sharing of code and content in videos
+
+rwxrob.github.io/zet/1303
+
+---
+
 Why build from source, instead of using binary packages
 
 1. Configuration and customisation - edit the code.
