@@ -187,6 +187,14 @@ salsa.debian.org/public - a Debian-GitHub?
 
 ---
 
+on the name order - some use family-first, like many contemporary
+famous people, and like Xi Ruoyao as I saw in the LFS page and maillist.
+The family-last manner looks to be more traditional. Like people in the
+20 century uses this form. Like Xingshen Chen, Chengtong Yau. I would
+just use the current one so I don't need to get another email address.
+
+---
+
 Why build from source, instead of using binary packages
 
 1. Configuration and customisation - edit the code.
