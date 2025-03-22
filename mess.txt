@@ -421,3 +421,7 @@ Let's specify the certificates by hand. Surprisingly, this time we get OK.
                 -CAfile /etc/ssl/certs/ca-certificates.crt
 
 This suggests that the issue is about path, environment variable etc.
+
+	export SSL_CERT_FILE=/etc/ssl/certs/ca-certificates.crt
+
+OK. This works.
