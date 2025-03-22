@@ -52,6 +52,9 @@ I finally get back to Linux because of GPL. It better supports open source?
 * pkgsrc is really smart and great
 * has a persistent on-usb-drive derivate? or is it FreeBSD? not sure about
   my memory.
+* there is a rtfm.org, with a /netbsd?
+* KASLR - looks cool but page fault at boot. Can't get in at all. At least
+  I reinstalled with the normal kernel.
 
 T2SDE - like BSD/pkgsrc?
 * surprisingly old. even some months older than Gentoo, in the 1990s?
