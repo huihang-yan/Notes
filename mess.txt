@@ -70,6 +70,15 @@ guarded.
 
 ---
 
+Why open-source
+
+1. Integrity. As discussed above.
+2. Share knowledge. It would be great if all the applicants we are using
+   every day are source available. We could just grab the source and study
+   if we want to.
+
+---
+
 The reason behind kindness
 
 Why should we be kind? The reason is somewhat cruel - because being kine helps
