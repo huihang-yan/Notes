@@ -255,8 +255,8 @@ This also applies to other software. All software.
 
 ---
 
-GitHub block is, surprisingly, just simply DNS block. A simple `hosts` solves
-the issue.
+The block to GitHub is surprisingly just simply DNS block.
+A simple `hosts` solves the issue.
 
 ---
 
