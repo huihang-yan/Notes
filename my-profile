@@ -12,6 +12,8 @@ setfont /root/huihang/ter-i32n.psf
 alias p='git push'
 alias d='git diff'
 alias c='git commit -a -m "`date; echo "@ "; uname -a`"'
+alias l='git log -p' # without -p we don't have diff, i.e. file content
+                     # changes, but only comment message and date
 
 # add ssh stuff ?
 
