@@ -145,10 +145,23 @@ Why compile from source
 
 1. Configuration and customisation - edit the code.
 2. Hardware accessibility.
-   * Binary unavailble for our chip.
+   * Binary unavailble for our chips.
    * Build smaller ones - e.g. by configuration and customisation.
 3. Learn things. We then have the experience of compiling from source.
    Might be useful for work.
+
+Why LFS writes only building from source? - Just think of why many people
+would go building LFS - probably because of some special chips - and
+for embedded systems to get a compact Linux - when embedded systems often
+get special chips.
+   What's more, for embedded systems people would need to cut the source
+to get smaller binary. That's again why compiling from source is required.
+   But does LFS really not include instructions of using existing binary?
+To check ...
+
+I remember that in LFS there is some several-pass build - build with the
+GCC configured as the environment of the target device - why?
+glibc-compatibility? to check ... really curious about this.
 
 ---
 
