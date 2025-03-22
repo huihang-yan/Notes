@@ -123,6 +123,8 @@ Why should we use open-source
 and the researchers use open-source. Thus, we learn things during use,
 and we would probably make money from it, like use it to find jobs.
 * Hardware accessibility.
+  1. Price.
+  2. Size. We could use really small device and save space!
 * Accessibility for blind users. - Be kind to other people!
 
 ---
