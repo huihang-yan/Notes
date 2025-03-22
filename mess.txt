@@ -63,8 +63,8 @@ T2SDE - like BSD/pkgsrc?
 AntiX Linux - actually has GUI, and is anti- `systemd` and `elogind`,
 not 'X'.
 
-Damn Small Linux - 600M? Well I finally just use the Debian netinst,
-the same 600M.
+Damn Small Linux - 600M? I eventually simply burned the Debian netinst
+disk, also 600M.
 
 ---
 
