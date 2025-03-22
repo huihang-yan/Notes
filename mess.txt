@@ -195,15 +195,10 @@ just use the current one so I don't need to get another email address.
 
 ---
 
-Freshmeat?
-freshmeat.net
-redirected to SOURCEFORGE??
+freshmeat.net redirected to SOURCEFORGE
+	Freshmeat integration
 
-Freshmeat integration
-
-lwn.net/Articles/604100
-July 2, 2014
-Freecode.com discontinued
+Freecode.com discontinued lwn.net/Articles/604100 July 2, 2014
 
 ---
 
