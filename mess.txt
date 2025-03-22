@@ -276,6 +276,13 @@ Too little voltage? Maybe.
 Glad to see in the awesome-C list that there are people duplicating
 git(1) and SQLite.
 
+uhub/awesome-c
+mpv-player
+videolan/vlc
+libgit2
+cstack/db_tutorial
+pymumu/smartdns
+
 ---
 
 CLI v.s. GUI
