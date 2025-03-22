@@ -144,6 +144,12 @@ GUI, those people would not use them.
    So, GUI is really unnecessary.
 4. Make us look geeky and cool? Then people would know we know stuff about
    computer? lol
+5. Hardware accessibility
+   1. Price
+   2. Size
+   3. Mouse not required - good for embedded in-hand, or in-palm, small
+      devices - and could reduce laptop size because the touchpad could
+      be cut.
 
 ---
 
