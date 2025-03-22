@@ -413,4 +413,11 @@ get up early, you do not sleep enough, and therefore you should sleep earlier.
 
 Test 'unable to get local issuer certificate'
 
-openssl s_client -connect example.org:443 -showcerts
+	openssl s_client -connect example.org:443 -showcerts
+
+Let's specify the certificates by hand. Surprisingly, this time we get OK.
+
+	openssl s_client -connect example.org:443 -showcerts
+                -CAfile /etc/ssl/certs/ca-certificates.crt
+
+This suggests that the issue is about path, environment variable etc.
