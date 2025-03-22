@@ -166,7 +166,7 @@ would be `git` conflicts.
 
 ---
 
-Why compile from source
+Why build from source, instead of using binary packages
 
 1. Configuration and customisation - edit the code.
 2. Hardware accessibility.
@@ -187,6 +187,14 @@ To check ...
 I remember that in LFS there is some several-pass build - build with the
 GCC configured as the environment of the target device - why?
 glibc-compatibility? to check ... really curious about this.
+
+And what's more, some stuff just do not release binary packages, or it is
+more difficult to find where the binary packages are:
+1. Most importantly, the kernel itself? It doesn't release binary, but
+   only source package?
+2. New versions. - Well, in fact I think many applicants just don't
+   provide binary package *at all*, and the binary is only packaged
+   by the distros.
 
 ---
 
