@@ -17,6 +17,15 @@ Some reasons that count less:
 
 ---
 
+Some reflects on Haskell
+
+Pure function and side-effect: provides Mathematically provable functions.
+This is good and I should go using Haskell?
+
+Could we also implement this in C? As a outside pure-function checker?
+
+---
+
 The reason behind kindness
 
 Why should we be kind? The reason is somewhat cruel - because being kine helps
