@@ -99,7 +99,16 @@ Yes, it's affordable for one device, but what about multiple device?
 
 And, thousands of device?
 
-E.g. in server. In education.
+E.g. in server. In education - one classroom with like sixty computers.
+
+And, for startup, small business. - therefore we say, open source
+helps startup and small business, and therefore helps innovation and
+economic.
+
+---
+
+Glad to see in the awesome-C list that there are people duplicating
+git(1) and SQLite.
 
 ---
 
