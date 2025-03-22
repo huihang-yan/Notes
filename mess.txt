@@ -152,6 +152,19 @@ Why compile from source
 
 ---
 
+Strange wireless behaviour on Slackware
+
+Full install = CONN_FAILED, reproduced on another device.
+	I cannot believe that this is reproducible. lol.
+Only installing A and then installing needed packages by hand with
+`installpkg`, then works. But still from time to time CONN_FAILED, and
+device completely missing from `ifconfig` after reboot - and it comes up
+again in the next reboot.
+
+Too little voltage? Maybe.
+
+---
+
 Glad to see in the awesome-C list that there are people duplicating
 git(1) and SQLite.
 
