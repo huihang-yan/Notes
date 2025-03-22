@@ -181,6 +181,8 @@ last messages:
 2011
 2010/6/6   Initial restart of LILO development.
 
+salsa.debian.org/public - a Debian-GitHub?
+
 ---
 
 Why build from source, instead of using binary packages
