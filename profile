@@ -5,6 +5,7 @@ alias ls='ls --all -C --color=never --classify --escape'
 # --escape   print C-style escapes for nongraphic characters
 
 alias lynx='lynx -nocolor'
+alias wget2='wget2 --progress=bar'
 
 setfont /root/huihang/ter-i32n.psf
 

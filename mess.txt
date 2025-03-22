@@ -452,4 +452,5 @@ wget2 --check-certificate=no
 
 http://www.kernel.org/pub/software/scm/git/git-2.49.0.tar.xz
 cdn.kernel.org/pub/linux/kernel/v6.x/linux-6.13.7.tar.xz
+cdn.kernel.org/pub/linux/utils/util-linux/v2.41/util-linux-2.41.tar.xz
 http://ftp.ntua.gr/mirror/gnu/gcc/releases/gcc-14.2.0/gcc-14.2.0.tar.xz
