@@ -141,6 +141,17 @@ would be `git` conflicts.
 
 ---
 
+Why compile from source
+
+1. Configuration and customisation - edit the code.
+2. Hardware accessibility.
+   * Binary unavailble for our chip.
+   * Build smaller ones - e.g. by configuration and customisation.
+3. Learn things. We then have the experience of compiling from source.
+   Might be useful for work.
+
+---
+
 Glad to see in the awesome-C list that there are people duplicating
 git(1) and SQLite.
 
