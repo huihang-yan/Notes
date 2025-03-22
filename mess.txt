@@ -142,6 +142,8 @@ GUI, those people would not use them.
 2. Accessibility for blind people.
 3. GUI is invented much later. At first everyone only has character console.
    So, GUI is really unnecessary.
+4. Make us look geeky and cool? Then people would know we know stuff about
+   computer? lol
 
 ---
 
