@@ -41,6 +41,28 @@ from FreeBSD. And the Intel driver also ported from FreeBSD.
 
 I finally get back to Linux because of GPL. It better supports open source?
 
+* different disk mechanism - is this the old Unix way?
+  * wrap own partition - must be one of the four primary partitions
+    in the case of MBR - and do stuff internally
+  * use the name 'disklabel'
+  * 'wedges' - something like mapping?
+* can't mount ext4 by default. Oh. Need to recompile the kernel?
+* quite traditional tty - ncurses really slow in cursor flick, like in
+  lynx(1)
+* pkgsrc is really smart and great
+* has a persistent on-usb-drive derivate? or is it FreeBSD? not sure about
+  my memory.
+
+T2SDE - like BSD/pkgsrc?
+* surprisingly old. even some months older than Gentoo, in the 1990s?
+  as described in its FAQ.
+
+AntiX Linux - actually has GUI, and is anti- `systemd` and `elogind`,
+not 'X'.
+
+Damn small Linux - 600M? Well I finally just use the Debian netinst,
+the same 600M.
+
 ---
 
 git-push via ssh
