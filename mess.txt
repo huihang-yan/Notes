@@ -248,6 +248,11 @@ more difficult to find where the binary packages are:
    provide binary package *at all*, and the binary is only packaged
    by the distros.
 
+Well, distos might work when they work. But when it breaks, if we are
+lucky we could fix but not rebuilding, but we would, often, probably,
+eventually, need to build from source to debug to see what's wrong.
+This also applies to other software. All software.
+
 ---
 
 GitHub block is, surprisingly, just simply DNS block. A simple `hosts` solves
