@@ -105,6 +105,26 @@ And, for startup, small business. - therefore we say, open source
 helps startup and small business, and therefore helps innovation and
 economic.
 
+And for kids. We could buy cheap hardware for kids, and won't fear about
+kids smashing the device - just buy a new one! Since the device is cheap,
+we could be really easy on buying really many devices.
+
+And for gifts. We could design programs and send as gifts to people. And
+design embedded device.
+
+Also, accessibility for blind users? - Microsoft Windows forces users to
+use GUI. CLI should be absolutely much more easier for blind users?
+
+---
+
+Why should we use open-source
+
+* What we learnt really counts. Like, the servers, the embedded industry
+and the researchers use open-source. Thus, we learn things during use,
+and we would probably make money from it, like use it to find jobs.
+* Hardware accessibility.
+* Accessibility for blind users. - Be kind to other people!
+
 ---
 
 Glad to see in the awesome-C list that there are people duplicating
