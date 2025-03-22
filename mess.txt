@@ -165,6 +165,11 @@ glibc-compatibility? to check ... really curious about this.
 
 ---
 
+GitHub block is, surprisingly, just simply DNS block. A simple `hosts` solves
+the issue.
+
+---
+
 Strange wireless behaviour on Slackware
 
 Full install = CONN_FAILED, reproduced on another device.
