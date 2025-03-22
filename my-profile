@@ -14,8 +14,12 @@ alias d='git diff'
 alias c='git commit -a -m "`date; echo "@ "; uname -a`"'
 alias l='git log -p' # without -p we don't have diff, i.e. file content
                      # changes, but only comment message and date
-
-# add ssh stuff ?
-
 # openssl stuff
 export SSL_CERT_FILE=/etc/ssl/certs/ca-certificates.crt
+
+# ssh stuff
+eval `ssh-agent -s`
+ssh-add ../github-key-250322
+
+# Test ssh configruation with:
+# 	ssh -vvvv -T git@github.com
