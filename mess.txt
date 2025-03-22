@@ -317,9 +317,8 @@ This increases our survival probability.
 
 Why write in English?
 
-1. Local environment. If we write in the mother tongue, people around would
-understand what we are writing more easily. Sometimes we want not to be
-disturbed.
+1. For secret. Sometimes we don't want people know what we are writing about,
+and those people don't read English well.
 
 2. For others to read. English is the world language. When there are
 readers with various natural language background, English would be a good
