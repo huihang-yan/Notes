@@ -216,7 +216,7 @@ rwxrob.github.io/zet/1303
 
 ---
 
-Why build from source, instead of using binary packages
+When should we build from source, and when should we use binary packages
 
 1. Configuration and customisation - edit the code.
 2. Hardware accessibility.
