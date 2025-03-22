@@ -444,3 +444,12 @@ Instead of using 'why should we ...', maybe it's often better to use
 
 'why' sounds like we should do that thing regardless of what. But in fact
 things are usually have prequisitics.
+
+---
+
+wget2 --check-certificate=no
+--progress=bar
+
+http://www.kernel.org/pub/software/scm/git/git-2.49.0.tar.xz
+cdn.kernel.org/pub/linux/kernel/v6.x/linux-6.13.7.tar.xz
+http://ftp.ntua.gr/mirror/gnu/gcc/releases/gcc-14.2.0/gcc-14.2.0.tar.xz
