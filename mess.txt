@@ -54,6 +54,22 @@ filenames in `~/.ssh~`.
 
 ---
 
+open-source, free software - should better be called `public software`?
+
+The pros is that, the code is put publicly available, e.g. on GitHub.
+Thus, we don't need to fear about our code getting edited by some malware,
+because we have the code on GitHub, and if the code is edited, `git` would
+tell us that there is a conflict.
+
+On the contrary, if we write code privately, it would be more difficult
+to tell whether our code gets edited by some malware, both possibly from
+local malware and remote access malware - since the malware has local access,
+it could fool the local `git`. If we have a duplicate on GitHub, and even
+better, in other people's computers and forks, the integrity would be better
+guarded.
+
+---
+
 The reason behind kindness
 
 Why should we be kind? The reason is somewhat cruel - because being kine helps
