@@ -79,6 +79,30 @@ Why open-source
 
 ---
 
+Hardware accessibility
+
+Microsoft Windows usually could only run on the latest-generation hardware.
+So do the applications running on Microsoft Windows. We could understand
+that this is due to:
+1. Less development cost. The employee could spend less time optimising and
+   use more dirty-and-slow-and-space-consuming methods.
+2. WinTel companion. Let us buy new hardware.
+3. Push the development of the hardware industry. If people don't buy new
+   hardware, the hardware industry might not proceed?
+
+And we say this is not a problem? Because the price of the device is
+generally affordable.
+
+That's the question.
+
+Yes, it's affordable for one device, but what about multiple device?
+
+And, thousands of device?
+
+E.g. in server. In education.
+
+---
+
 CLI v.s. GUI
 
 1. There are many people who have been used to CLI and don't use GUI at all
