@@ -129,6 +129,18 @@ and we would probably make money from it, like use it to find jobs.
 
 ---
 
+Why writing blogs and open-source
+
+As a backup - like, we could publish our files, like configurations, to
+GitHub. Then we could just download them when we need.
+
+No. Downloading when we need is not the point. We could rewrite any time
+anyway. The point is integrity. We could then guard our files getting
+edited by malware - we could know it because if files are edited, there
+would be `git` conflicts.
+
+---
+
 Glad to see in the awesome-C list that there are people duplicating
 git(1) and SQLite.
 
