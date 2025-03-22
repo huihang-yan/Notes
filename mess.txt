@@ -79,6 +79,17 @@ Why open-source
 
 ---
 
+CLI v.s. GUI
+
+1. There are many people who have been used to CLI and don't use GUI at all
+- except using the web browsers. Therefore, if we write our programs in
+GUI, those people would not use them.
+2. Accessibility for blind people.
+3. GUI is invented much later. At first everyone only has character console.
+   So, GUI is really unnecessary.
+
+---
+
 The reason behind kindness
 
 Why should we be kind? The reason is somewhat cruel - because being kine helps
