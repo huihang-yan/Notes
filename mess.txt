@@ -166,6 +166,13 @@ would be `git` conflicts.
 
 ---
 
+Just checked kernel.org and surprisingly found that Google is one of the
+sponsors. Wow. That's why so many people in the maillist use gmail? lol
+
+Also: EQUINIX, MATAL, fastly, Red Hat, CONSTELLIX, PURE STORAGE
+
+---
+
 Why build from source, instead of using binary packages
 
 1. Configuration and customisation - edit the code.
