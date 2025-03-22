@@ -331,8 +331,6 @@ See also: Simplified Technical English, controlled natural languages.
 
 Use Plain Text as Data Format
 
-Note: However, user interfaces are another thing. It seems good to use GUI. 
-
 1. Tools to view and edit.
 
 For others to read and write. The target audience do write code, and the code
