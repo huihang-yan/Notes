@@ -5,13 +5,16 @@
 int main(void)
 {
 	char *name, *psk;
-	while (2 == scanf("%ms %ms", &name, &psk))
+	int priority;
+	while (3 == scanf("%ms %ms %d", &name, &psk, &priority))
 	{
 		printf("network={\n"
 		       "	ssid=\"%s\"\n"
 		       "        key_mgmt=WPA-PSK\n"
 		       "	psk=\"%s\"\n"
-		       "}\n\n", name, psk);
+		       "        priority=%d\n"
+		       "}\n\n",
+		       name, psk, priority);
 		free(name); free(psk);
 	}
 	return 0;
