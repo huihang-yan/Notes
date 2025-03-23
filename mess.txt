@@ -477,7 +477,12 @@ Build LFS
 
 When people ask us, 'which distro do you use - Debian? Fedora
 RedHat? Rocklinux? T2SDE? Gentoo? Arch? Slackware? Ubuntu? OpenSUSE?
+Elementary? Deepin? Manjaro? Mint? Alpine? Proteus? SystemRescue? IPFire?
 Backtrack? Tails? AntiX? Poppix?', we could reply, 'LFS'. lol.
+
+Every distro has its pros and cons, and there would be really boring
+talks on this. For example, if I reply that I use Slackware, the next
+topic would probably
 
 So that we don't need to study distro-specific document, but could make
 use of the great modularity design of GNU/Linux components - study
