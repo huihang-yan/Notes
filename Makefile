@@ -4,7 +4,7 @@ general_conf = wpa_supplicant.conf
 conf_wifi = conf-wifi
 
 all: $(conf_wifi)
-	tail -n 3 $(target_conf) | ./$(conf-wifi)
+	tail -n 3 $(target_conf) | ./$(conf_wifi)
 
 $(conf_wifi): $(conf_wifi).c
 	gcc $? -o $@
