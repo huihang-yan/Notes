@@ -8,6 +8,8 @@ int main(void)
 	int priority;
 	while (3 == scanf("%ms %ms %d", &name, &psk, &priority))
 	{
+		if (priority >0)
+			{ free(name); free(psk); continue; }
 		printf("network={\n"
 		       "	ssid=\"%s\"\n"
 		       "        key_mgmt=WPA-PSK\n"
