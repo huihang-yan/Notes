@@ -473,6 +473,14 @@ roy.marples.name/projects/dhcpcd
 
 ---
 
+While, I'm migrating to GitLab anyway. GitHub network access is too unstable.
+
+I thought I have solved this issue with hosts file. But it turns out that
+GitHub changes IP from time to time. Maintaining the hosts file is really
+troublesome. Let's just simply move to GitLab instead.
+
+---
+
 Build LFS
 
 When people ask us, 'which distro do you use - Debian? Fedora
