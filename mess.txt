@@ -486,3 +486,7 @@ the documents of the individual software instead.
 And when migrating system, we don't need installers. But just copy and paste.
 We would need a rescue disk or live-cd or something. We could probably
 make up one with the method of LFS ourselves.
+
+We could help with when people ask us to configure a compact embedded
+GNU/Linux. And we would understand every component - since we build
+every component by hand, one after another.
