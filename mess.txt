@@ -454,6 +454,9 @@ http://ftp.ntua.gr/mirror/gnu/gcc/releases/gcc-14.2.0/gcc-14.2.0.tar.xz
 
 git ssl debug
 
+With GIT_CURL_VERBOSE we could find that CAfile is `none`.
+Then, we could use `git config http.sslcainfo` to set the CAfile path.
+
 GIT_CURL_VERBOSE=10 git clone -v -v -v -v https://git.savannah.nongnu.org/git/stonevalley.git
 git config http.sslcainfo /etc/ssl/certs/ca-certificates.crt
 git config -l
