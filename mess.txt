@@ -487,11 +487,12 @@ solve dependencies. Such talk is boring. Really boring.
 
 And what's more, these things seem to be going on like flame war. Like
 Windows v.s. Linux v.s. BSD v.s. Minix v.s. MacOS, and like Emacs v.s. Vim
-v.s. ed(1) v.s. Visual Code v.s. Sublime Text v.s. Jetbrains. Such talk
-is really boring.
+v.s. ed(1) v.s. Visual Code v.s. Sublime Text v.s. Jetbrains.
+Like anti systemd. Such talk is really boring.
 
 If I reply that I use XXX distro, it seems that I am among the flame
-war.
+war. I don't like this. I am not supporting some distro nor looking
+down upon some distro, nor 'fighting against' some
 
 So that we don't need to study distro-specific document, but could make
 use of the great modularity design of GNU/Linux components - study
