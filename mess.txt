@@ -466,3 +466,7 @@ git config http.sslcainfo /etc/ssl/certs/ca-certificates.crt
 git config -l
 
 ---
+
+ifconfig - net-tools? link?
+wpa - BSD. link?
+roy.marples.name/projects/dhcpcd
