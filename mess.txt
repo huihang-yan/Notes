@@ -482,3 +482,7 @@ AntiX?', we could reply, 'LFS'. lol.
 So that we don't need to study distro-specific document, but could make
 use of the great modularity design of GNU/Linux components - study
 the documents of the individual software instead.
+
+And when migrating system, we don't need installers. But just copy and paste.
+We would need a rescue disk or live-cd or something. We could probably
+make up one with the method of LFS ourselves.
