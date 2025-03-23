@@ -20,7 +20,16 @@ export SSL_CERT_FILE=/etc/ssl/certs/ca-certificates.crt
 
 # ssh stuff
 eval `ssh-agent -s`
-ssh-add /root/huihang/github-key-250322
+ssh-add /root/huihang/no-upload/github-key-250322
+# the repository `no-upload` is offline-only
+# not uploading to GitHub etc., would only stay offline
+# transferred, for example, between disk and usb stick with `git clone`
+#
+# The use of `git` for local repository is generally for integrity
+# so that if some malware - or good software - altered the files,
+# we would know that the files are edited. This should be also possible
+# to be implemented with a customised fuse filesystem which monitors and logs
+# every write operation.
 
 # Test ssh configruation with:
 # 	ssh -vvvv -T git@github.com
