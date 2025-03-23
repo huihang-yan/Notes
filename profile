@@ -7,7 +7,7 @@ alias ls='ls --all -C --color=never --classify --escape'
 alias lynx='lynx -nocolor'
 alias wget2='wget2 --progress=bar'
 
-setfont /root/huihang/ter-i32n.psf
+setfont /root/huihang/Notes/ter-i32n.psf
 
 alias inspkg=installpkg
 # When trying to input 'installpkg', the TAB autocompletion always
