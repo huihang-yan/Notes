@@ -37,3 +37,6 @@ ssh-add /root/huihang/no-upload/github-key-250322
 
 # Test ssh configruation with:
 # 	ssh -vvvv -T git@github.com
+
+# Search text:
+# 	grep "xxx" -I -r . |less
