@@ -476,8 +476,8 @@ roy.marples.name/projects/dhcpcd
 Build LFS
 
 When people ask us, 'which distro do you use - Debian? Fedora
-RedHat? Rocklinux? T2SDE? Gentoo? Arch? Slackware? Ubuntu?
-AntiX?', we could reply, 'LFS'. lol.
+RedHat? Rocklinux? T2SDE? Gentoo? Arch? Slackware? Ubuntu? OpenSUSE?
+Backtrack? Tails? AntiX? Poppix?', we could reply, 'LFS'. lol.
 
 So that we don't need to study distro-specific document, but could make
 use of the great modularity design of GNU/Linux components - study
