@@ -9,6 +9,7 @@ int main(void)
 	{
 		printf("network={\n"
 		       "	ssid=\"%s\"\n"
+		       "        key_mgmt=WPA-PSK\n"
 		       "	psk=\"%s\"\n"
 		       "}\n\n", name, psk);
 		free(name); free(psk);
