@@ -35,7 +35,7 @@ ssh-add /root/huihang/no-upload/github-key-250322
 # to be implemented with a customised fuse filesystem which monitors and logs
 # every write operation.
 
-# Test ssh configruation with:
+# Test ssh configruation:
 # 	ssh -vvvv -T git@github.com
 
 # Search text:
