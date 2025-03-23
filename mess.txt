@@ -213,6 +213,10 @@ rwxrob.github.io/zet/1303
 
 When should we build from source, and when should we use binary packages
 
+There might not be a binary package for the software we want in the
+package list of our distro, but there must be a source package distributed
+in the Internet.
+
 When should we use existing binary packages:
 1. When we need to get things really quick, and the compliation would be 
    really slow - e.g. for the case of GCC and the kernel. However, tiny
