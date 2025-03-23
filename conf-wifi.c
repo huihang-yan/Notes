@@ -16,3 +16,8 @@ int main(void)
 	}
 	return 0;
 }
+
+// It is strange that the wireless turns back to work after adding
+// the key_mgmt=WPA-PSK line.
+//    The document says the default is WPA-PSK WPA-EAP. Maybe the EAP
+// messed up the association?
