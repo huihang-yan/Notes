@@ -482,7 +482,16 @@ Backtrack? Tails? AntiX? Poppix?', we could reply, 'LFS'. lol.
 
 Every distro has its pros and cons, and there would be really boring
 talks on this. For example, if I reply that I use Slackware, the next
-topic would probably
+topic would probably moves to the Slackware package system which doesn't
+solve dependencies. Such talk is boring. Really boring.
+
+And what's more, these things seem to be going on like flame war. Like
+Windows v.s. Linux v.s. BSD v.s. Minix v.s. MacOS, and like Emacs v.s. Vim
+v.s. ed(1) v.s. Visual Code v.s. Sublime Text v.s. Jetbrains. Such talk
+is really boring.
+
+If I reply that I use XXX distro, it seems that I am among the flame
+war.
 
 So that we don't need to study distro-specific document, but could make
 use of the great modularity design of GNU/Linux components - study
