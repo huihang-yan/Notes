@@ -9,6 +9,10 @@ alias wget2='wget2 --progress=bar'
 
 setfont /root/huihang/ter-i32n.psf
 
+alias inspkg=installpkg
+# When trying to input 'installpkg', the TAB autocompletion always
+# blocks me because of 'install'. So let's get a new name.
+
 # shorthands for git
 alias p='git push'
 alias d='git diff'
